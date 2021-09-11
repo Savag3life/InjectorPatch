@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Premain-Class: us.supremedev.injectorprotector.Agent
+Agent-Class: us.supremedev.injectorprotector.Agent
